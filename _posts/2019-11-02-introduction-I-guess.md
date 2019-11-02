@@ -11,4 +11,3 @@ Should we start over? I think we should.
 Hello folks, my names agentt, and im a shitposter. 
 When I say this im joking of course. 
 Actually heres what I am. 
-<ref> /resume </ref>
