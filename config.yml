@@ -1,3 +1,3 @@
-name: agentt, shitposter
+name: agentt
 	markdown: kramdown
 permalink: /agentt/blog/:year/:month/:day/:title
